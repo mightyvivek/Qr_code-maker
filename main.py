@@ -7,6 +7,6 @@ s = "https://github.com/mightyvivek"
 
 url = pyqrcode.create(s, mode='binary')
 #url.svg("myqr.svg", scale = 8)
-url.png('myqr3.png', scale = 6)
-#url.show()
+url.png('myqr2.png', scale = 6)
+url.show()
 
